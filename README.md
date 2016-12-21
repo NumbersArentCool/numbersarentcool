@@ -5,4 +5,3 @@ Made By Wedrig, Frostbird, and Bax3n
 ## license
 * Don't make money off this
 * Give proper credit
-* 
