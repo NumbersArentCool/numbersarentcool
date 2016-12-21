@@ -49,3 +49,9 @@ int gotohell()
   string userInp = "666";
   cout << "Calling Devil";
 }
+
+int stale()
+{
+  string userInp = "1738";
+  cout << "KYS";
+}
