@@ -55,3 +55,9 @@ int stale()
   string userInp = "1738";
   cout << "KYS";
 }
+
+int 1134()
+{
+  string userInp = "1134";
+  cout << "Wrong afterlife boi";
+}
