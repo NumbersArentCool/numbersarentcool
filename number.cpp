@@ -61,3 +61,9 @@ int 1134()
   string userInp = "1134";
   cout << "Wrong afterlife boi";
 }
+
+int 69()
+{
+  string userInp = "69";
+  cout << "heh, heh, haha";
+}
