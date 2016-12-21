@@ -73,3 +73,9 @@ int triggered()
   string userInp ="5"
   cout << "There are only 2 genders";
 }
+
+int bigsmoke
+{
+  string userInp ="9"
+  cout << "A number 9";
+}
