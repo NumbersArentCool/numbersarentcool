@@ -43,3 +43,9 @@ int faze()
   string userInp = "360";
   cout << "My hope will never die";
 }
+
+int gotohell()
+{
+  string userInp = "666";
+  cout << "Calling Devil";
+}
