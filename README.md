@@ -1,2 +1,2 @@
-# Numbergame
-a crappy C++ game. trying to learn it so bare with me
+# Numbers Aren't Cool
+a crappy open source number game
