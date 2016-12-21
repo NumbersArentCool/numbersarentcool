@@ -65,5 +65,11 @@ int 1134()
 int 69()
 {
   string userInp = "69";
-  cout << "heh, heh, haha";
+  cout << "haha funny joke";
+}
+
+int triggered()
+{
+  string userInp ="5"
+  cout << "There are only 2 genders";
 }
