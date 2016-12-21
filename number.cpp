@@ -37,3 +37,9 @@ int hax()
   string userInp = "1337";
   cout << "1337 hax0r";
 }
+
+int faze()
+{
+  string userInp = "360";
+  cout << "My hope will never die";
+}
